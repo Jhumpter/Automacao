@@ -5,11 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="96f44317-55a2-413c-ad9f-8237a876c8c7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/pythonProject/a.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pythonProject/copiar.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Automação.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Automação.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/Web/bot_formulario.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythonProject/n1.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythonProject/n1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonProject/a.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythonProject/Web/a.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonProject/copiar.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonProject/msg_automatica.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythonProject/Web/msg_automatica.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,6 +37,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.a.executor": "Run",
+    "Python.bot_formulario.executor": "Run",
     "Python.copiar.executor": "Run",
     "Python.copiar_texto.executor": "Run",
     "Python.n1.executor": "Run",
@@ -45,6 +46,11 @@
     "last_opened_file_path": "C:/Users/gened/OneDrive/João_Paulo/JP/Python/Automacao/Automação"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\gened\OneDrive\João_Paulo\JP\Python\Automacao\Automação\pythonProject\Web" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
